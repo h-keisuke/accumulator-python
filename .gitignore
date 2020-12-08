@@ -1,0 +1,6 @@
+.idea/
+package/
+venv/
+bucket-name.txt
+out.json
+out.yml
